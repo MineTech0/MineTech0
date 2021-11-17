@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niilo Kurki</h1>
 <h3 align="center">Passionate problem solver and web developer from Finland</h3>
 
-- 🔭 I’m currently working on [Selitä ja arvaa](https://github.com/MineTech0/selita-ja-arvaa)
-
 - 🌱 I’m currently learning **NextJs**
 
 - 📫 How to reach me **niilo.kurki@hotmai.fi**
