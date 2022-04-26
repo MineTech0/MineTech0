@@ -16,3 +16,4 @@
 <h3 align="left">My projects:</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MineTech0&repo=selita-ja-arvaa)](https://github.com/MineTech0/selita-ja-arvaa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MineTech0&repo=purseri)](https://github.com/MineTech0/purseri)
