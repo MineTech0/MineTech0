@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 📫 How to reach me **niilo.kurki@hotmai.fi**
+- 📫 How to reach me **niilo.kurki@hotmail.fi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
